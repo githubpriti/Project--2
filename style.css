@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Red Rose", cursive;
+  }
+  /* @import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Montserrat:ital,wght@0,300;0,900;1,400;1,500;1,700&family=Orbitron:wght@400;700&family=Oswald:wght@700&family=Red+Rose:wght@700&family=Roboto:wght@900&family=Sansita+Swashed:wght@500;600&display=swap'); */
+  /* @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Edu+NSW+ACT+Foundation&family=Montserrat:ital,wght@0,300;0,900;1,400;1,500;1,700&family=Orbitron:wght@400;700&family=Oswald:wght@700&family=Red+Rose:wght@700&family=Roboto:wght@900&family=Sansita+Swashed:wght@500;600&display=swap'); */
+
+body{
+  width: 100%;
+  height: 100%;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0,0.8)), 
+    url(./download\ \(1\)background.png);
+  background-size:cover;
+  background-attachment: fixed; 
+  }
+  .navbar {  
+    display: flex;
+    justify-content: space-between;
+     align-items: center; 
+    padding: 0 60px 0 60px;
+    margin-top: 55px;
+   } 
+
+.list{
+  align-items: center;
+  display: flex; 
+  gap: 63px;
+  list-style-type: none;
+  color:#ffc233;
+  font-family: "Red Rose";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+}
+.logo,
+.list-item{
+  cursor: pointer;
+}
+.button-small{
+  background-color:#FF505F;
+  border: none;
+  padding: 15px 35px;
+  font-family:"Red Rose" ;
+  color:white;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  cursor: pointer; 
+}
+.hero {
+  max-width: 1154px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 100px;
+}
+.hero-heading{
+  font-family: "Dela Gothic One",cursive;
+  font-weight: 400;
+  font-size: 104px;
+  line-height: 110%;
+  color: #FED54A;
+}
+.button-large{
+  background-color:#FF505F;
+  border: none;
+  color: #ffffff;
+  padding: 24px 40px;
+  font-family: "Red Rose";
+  font-weight: 700;
+  font-size: 25px;
+  cursor: pointer;
+  margin-top: 64px;
+
+}
+.bottom{
+  position: absolute;
+  bottom: -50px;
+  right:40px ;
+
+}
