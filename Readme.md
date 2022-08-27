@@ -1,10 +1,17 @@
-# Live class from priti
+# Project 2:
 
-## a class about hosting your webpage for free
+[Live link](http://127.0.0.1:5500/index.html)
 
-In this class we discussed about pushing code to git and github.
-Also, we talked about pushing website to netlify ,but you can also use vercel.
+## Name:Vaishnavi Jaju
 
-[vercel](https://vercel.com)
+**The project took 7 hrs to complete.**
 
-![badge](https://img.shields.io/badge/Live--class-sunday-green)
+**What I learned in this project** :
+
+***
+ -How to use background-image in css.
+ 
+***
+
+
+![badge](https://img.shields.io/badge/LearnCodeOnline-INeuron)
