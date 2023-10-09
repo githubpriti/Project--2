@@ -1,6 +1,6 @@
 # Project 2:
 
-[Live link](http://127.0.0.1:5500/index.html)
+[Live link](https://restaurentpage.netlify.app/)
 
 ## Name:Vaishnavi Jaju
 
