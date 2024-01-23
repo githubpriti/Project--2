@@ -1,6 +1,6 @@
 # Project 2:
 
-[Live link](https://restaurentpage.netlify.app/)
+[Live link](https://project-2-mu-ecru.vercel.app/)
 
 ## Name:Vaishnavi Jaju
 
